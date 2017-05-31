@@ -7,4 +7,3 @@ Le projet d'origine est disponible à cette adresse : https://github.com/mitchga
 Cette version se présente comme un double quizz pour évaluer les risques de matraitance. Les questions portent sur les personnes aidées (quiz patient), et sur les aidants (quiz aidant).
 
 L'appli est bootstrappée par create-react-app. Le déploiement est assuré par Zeit/now. L'ui s'appuie sur material-ui et les animations sur react-addons-css-transition-group.
-
