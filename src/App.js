@@ -10,7 +10,6 @@ injectTapEventPlugin();
 
 const style = {
   height: 700,
-  width: "98%",
   margin: 10
 };
 
